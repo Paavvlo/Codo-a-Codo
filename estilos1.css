@@ -1,0 +1,51 @@
+img{
+    width: 80px;
+    height: 80px;
+}
+
+header{
+
+    width: 20hw;
+    height: 20hv;
+    background-color: grey;
+}
+.bs{
+    color: white;
+    
+}
+.conferencia{
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    text-decoration: none;
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+h2{
+    text-align: right;
+    color: white;
+}
+.llega{
+    text-align: right;
+    color: white;
+}
+.ora{
+    text-align: right;
+    
+    color: black;
+}
+.ticket { 
+
+    text-align: right;
+    background: light-gray; 
+    color: black; 
+  } 
+
+.conoce{
+    text-align: center;
+}
+.container{
+    display: flex;
+}
